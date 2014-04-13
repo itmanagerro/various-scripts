@@ -1,4 +1,4 @@
-various-script >> XSLT
-======================
+various-script -> XSLT
+========================
 
 Various XSLT scripts developed by ITManager
