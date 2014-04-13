@@ -1,6 +1,8 @@
 #!/bin/bash
 # Exportare categorii, produse si combinatii din XML in CSV.
 echo "Exportare categorii, produse si combinatii din XML in CSV."
+echo "developed by ITManager"
+echo "=========================================================="
 # export produse.csv
 echo "Export produse.csv"
 xsltproc xsl/produse.xsl in/en_complete_01_nw.xml > out/produse.csv
